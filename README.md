@@ -18,11 +18,11 @@ Running the application will produce a folder structure like:
 
 ```
 /files
-  / city
-    / madrid
-    / london
-  / person
-    / girl
+  /city
+    /madrid
+    /london
+  /person
+    /girl
 ```
 
 The content of each .zip file will, respectively, be placed in each one of these folders.
