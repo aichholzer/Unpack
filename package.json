@@ -1,0 +1,21 @@
+{
+  "name": "Unpack",
+  "description": "Zip file unpacker and organizer.",
+  "version": "0.1.7",
+  "author": "Stefan Aichholzer <theaichholzer@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aichholzer/Unpack.git"
+  },
+  "main": "lib/index.js",
+  "engines": {
+    "node": "5.0.x"
+  },
+  "dependencies": {
+    "buckle": "0.0.3",
+    "mkdirp": "^0.5.1"
+  },
+  "scripts": {
+    "start": "node app/"
+  }
+}
