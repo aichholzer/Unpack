@@ -1,7 +1,11 @@
 # Unpack
 Proof of concept. Unzip files into sub-folders as specified by the file name.
+Make sure you have `Nodejs` installed.
 
-Run: `node lib/`
+- Clone this repository (or download it as a .zip file)
+- Go to the project folder
+- Install dependencies: `npm install`
+- Run: `node lib/`
 
 You can tell the script where the .zip files are placed, relatively to the application:
 `node lib/ files`
