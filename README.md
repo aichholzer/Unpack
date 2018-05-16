@@ -1,4 +1,6 @@
 # Unpack
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/aichholzer/Unpack.svg)](https://greenkeeper.io/)
 Proof of concept. Unzip files into sub-folders as specified by the file name.
 Make sure you have `Nodejs` installed.
 
